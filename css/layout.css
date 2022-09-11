@@ -769,7 +769,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #008EFF;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -973,7 +973,7 @@ footer .social-links li:first-child { margin-left: 0; }
 
   /*=============== FOOTER ===============*/
 .footer {
-   background-color: teal;
+   background-color: #FFF880;
  }
  
  .footer_container {
